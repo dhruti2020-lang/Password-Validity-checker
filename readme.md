@@ -39,8 +39,10 @@ pip install numpy
 
 
 ---
-##How To Run
+**##How To Run**
+
 * Open your terminal or command prompt.
 * b Navigate to your project directory.
 * Run the application:
+
 python dictionary-password-validator.py
