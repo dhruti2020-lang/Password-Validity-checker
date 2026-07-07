@@ -36,13 +36,4 @@ Make sure you have Python 3 installed on your system. You will also need the `nu
 
 ```bash
 pip install numpy
-
-
----
-**##How To Run**
-
-* Open your terminal or command prompt.
-* b Navigate to your project directory.
-* Run the application:
-
 python dictionary-password-validator.py
